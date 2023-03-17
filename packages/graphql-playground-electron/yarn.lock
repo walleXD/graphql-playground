@@ -106,9 +106,10 @@
     "@types/node" "*"
     "@types/react" "*"
 
-"@types/react-redux@5.0.14":
-  version "5.0.14"
-  resolved "https://registry.yarnpkg.com/@types/react-redux/-/react-redux-5.0.14.tgz#f3fc30dcbb2d20455a714f591cc27f77b4df09bb"
+"@types/react-redux@5.0.24":
+  version "5.0.24"
+  resolved "https://registry.yarnpkg.com/@types/react-redux/-/react-redux-5.0.24.tgz#8567dbd87bdfbb8a2b17bcdbb064d678f86c91e2"
+  integrity sha512-EJfdjLtxceQmrVZrcwSZR6V97e6qyG/gaJ2MQrsVzGYiXO2cN+oHBSizB1/SnReTkorpEgQulhVdYcFee8abqQ==
   dependencies:
     "@types/react" "*"
     redux "^3.6.0"
