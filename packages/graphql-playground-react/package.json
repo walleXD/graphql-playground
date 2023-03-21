@@ -79,7 +79,7 @@
     "jest": "22.1.4",
     "jest-localstorage-mock": "^2.2.0",
     "json-loader": "0.5.7",
-    "lint-staged": "6.1.0",
+    "lint-staged": "6.1.1",
     "node-noop": "1.0.0",
     "object-assign": "4.1.1",
     "promise": "8.0.1",
