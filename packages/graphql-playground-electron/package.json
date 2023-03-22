@@ -148,7 +148,7 @@
     "json-loader": "0.5.7",
     "lint-staged": "7.1.2",
     "node-noop": "1.0.0",
-    "polished": "1.9.2",
+    "polished": "1.9.3",
     "postcss-inherit": "git+https://github.com/timsuchanek/postcss-inherit#build3",
     "postcss-loader": "0.9.1",
     "postcss-simple-vars": "3.1.0",
